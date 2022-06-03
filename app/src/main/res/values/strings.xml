@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PM1-2022</string>
+    <string name="texto_buscar">buscar</string>
+    <string name="texto_eliminar">eliminar</string>
+    <string name="texto_actualizar">actualizar</string>
+
+
+</resources>
