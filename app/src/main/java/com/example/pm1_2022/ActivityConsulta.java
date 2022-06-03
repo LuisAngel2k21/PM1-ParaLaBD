@@ -64,6 +64,8 @@ public class ActivityConsulta extends AppCompatActivity {
         edad.setText(cdata.getString(3));
 
         Toast.makeText(getApplicationContext(),"Consultado con Exito¡¡", Toast.LENGTH_LONG).show();
+    }
+    private void Eliminar(){
 
 
     }
